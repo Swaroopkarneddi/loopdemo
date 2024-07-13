@@ -1,0 +1,25 @@
+.headder {
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+    height: fit-content;
+}
+
+.headder_own {
+    background-color: #FFFFFF !important;
+}
+
+.headder_icon_img {
+    width: 70px;
+    height: 38px;
+}
+
+.profile_temp {
+    margin-left: auto;
+}
+
+@media only screen and (max-width: 990px) {
+    .headder {
+        width: 100%;
+    }
+}

@@ -1,7 +1,8 @@
 .bookdemo {
     background: rgb(32, 15, 70);
     background: linear-gradient(90deg, rgba(32, 15, 70, 1) 0%, rgba(113, 27, 249, 1) 40%, rgba(18, 242, 132, 1) 91%);
-    height: 270px;
+    min-height: 270px;
+    height: fit-content;
     color: #e4e3e7;
     font-family: "Chivo", sans-serif;
     font-optical-sizing: auto;
@@ -9,6 +10,7 @@
     text-align: center;
     font-size: 1.1rem;
     padding-top: 10px;
+    padding-bottom: 20px;
 }
 
 .bookdemo>div {

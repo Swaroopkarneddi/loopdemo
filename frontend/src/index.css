@@ -7,7 +7,21 @@
 
 * {
     box-sizing: border-box;
+    scroll-behavior: smooth;
+    /* transition: 5s all linear;
+    -webkit-transition: 1s all linear;
+    -moz-transition: 1s all linear;
+    -ms-transition: 1s all linear;
+    -o-transition: 1s all linear; */
 }
+
+html {
+    scroll-behavior: smooth;
+}
+
+/* div {
+    transition: width 5s ease-in;
+} */
 
 body {
     padding: 0%;
