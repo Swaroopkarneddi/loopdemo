@@ -93,20 +93,66 @@ function Footer() {
               </div>
             </div>
             <div className="footer_bottom_top2">
-              <div className="">1</div>
-              <div>1</div>
-              <div>1</div>
-              <div>1</div>
-              <div>1</div>
-              <div>1</div>
-              <div>1</div>
-              <div>1</div>
-              <div>1</div>
-              <div>1</div>
+              <div>
+                <div>
+                  <img
+                    src="https://play-lh.googleusercontent.com/c8oisII4zLnZjpba-fpVOmdRUbmZHpPRVzBW-dee049P74S4zpX8cUD2-0p_AHrKog"
+                    alt="AMEX"
+                  />
+                </div>
+                <div>
+                  <img
+                    src="https://www.currensea.com/hs-fs/hubfs/Apple_Pay_logo_blk_020519-ai.png?width=525&height=525&name=Apple_Pay_logo_blk_020519-ai.png"
+                    alt=""
+                  />
+                </div>
+                <div>
+                  <img
+                    src="https://cdn.icon-icons.com/icons2/1178/PNG/512/diners-club_82069.png"
+                    alt=""
+                  />
+                </div>
+                <div>
+                  <img
+                    src="https://1000logos.net/wp-content/uploads/2021/05/Discover-logo-768x432.png"
+                    alt=""
+                  />
+                </div>
+                <div>
+                  <img
+                    src="https://www.uctoday.com/wp-content/uploads/2021/12/What-is-Meta.jpg"
+                    alt=""
+                  />
+                </div>
+                <div>
+                  <img
+                    src="https://w7.pngwing.com/pngs/893/567/png-transparent-logo-pay-google-gpay-logos-brands-in-colors-icon.png"
+                    alt=""
+                  />
+                </div>
+                <div>
+                  <img
+                    src="https://www.investopedia.com/thmb/F8CKM3YkF1fmnRCU2g4knuK0eDY=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/MClogo-c823e495c5cf455c89ddfb0e17fc7978.jpg"
+                    alt=""
+                  />
+                </div>
+                <div>
+                  <img
+                    src="https://logowik.com/content/uploads/images/shop-app6999.jpg"
+                    alt=""
+                  />
+                </div>
+                <div>
+                  <img
+                    src="https://mentors-org-logo.s3.us-west-2.amazonaws.com/5e2b5250a75a1130cef10169.png"
+                    alt=""
+                  />
+                </div>
+              </div>
             </div>
           </div>
           <div className="footer_bottom_bottom">
-            <div>1</div>
+            <div>&copy; 2024, Loop Demo Store Powered by Shopify</div>
           </div>
         </div>
       </div>
