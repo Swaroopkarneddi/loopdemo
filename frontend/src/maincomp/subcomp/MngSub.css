@@ -15,7 +15,7 @@
     flex: 0.65;
     display: flex;
     flex-direction: column;
-    padding-left: 2rem;
+    /* padding-left: 2rem; */
 }
 
 .mngsub_left>div {
@@ -47,7 +47,7 @@
 
 .mngsub_left_bottom {
     margin-bottom: auto;
-    margin-top: 1rem;
+    /* margin-top: 1rem; */
 }
 
 .mngsub_left_bottom_button {
@@ -60,9 +60,28 @@
 
 .mngsub_right {
     flex: 0.35;
-    padding-right: 2rem;
 }
 
 .mngsub_right>img {
     width: 100%;
+}
+
+@media only screen and (max-width: 980px) {
+    .mngsub {
+        margin-bottom: 20px;
+        margin-top: 20px;
+        display: flex;
+        flex-direction: column-reverse;
+    }
+
+    .mngsub_right {
+        width: 60%;
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    .mngsub_right>img {
+
+        width: 100%;
+    }
 }
