@@ -1,0 +1,36 @@
+.otbundels {
+    width: 80%;
+    height: fit-content;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 20px;
+    margin-top: 20px;
+    display: flex;
+    flex-direction: column;
+    font-family: "Chivo", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.otbundels_header {
+    font-size: 1.4rem;
+    font-weight: bold;
+    margin-left: 10px;
+    margin-bottom: 30px;
+}
+
+.otbundels_main {
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+    grid-template-rows: auto;
+    justify-content: space-between;
+    padding-left: 10px;
+}
+
+/* .otbundels_main {
+    display: flex;
+    flex-direction: row;
+    padding-left: 10px;
+} */

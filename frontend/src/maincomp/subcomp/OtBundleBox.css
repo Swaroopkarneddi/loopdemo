@@ -1,0 +1,31 @@
+.otbundlebox {
+    width: fit-content;
+    display: flex;
+    flex-direction: column;
+    margin-right: 10px;
+}
+
+.otbundlebox_img {
+    display: flex;
+    height: 80%;
+}
+
+.otbundlebox_txt {
+    height: fit-content;
+    margin-top: auto;
+    margin-bottom: auto;
+}
+
+.otbundlebox_img>img {
+    margin-left: auto;
+    margin-right: auto;
+    width: 90%;
+    height: 100%;
+}
+
+.otbundlebox_txt_btn {
+    font-size: 0.81rem !important;
+    text-transform: none !important;
+    margin-left: 10px !important;
+    color: black !important;
+}
