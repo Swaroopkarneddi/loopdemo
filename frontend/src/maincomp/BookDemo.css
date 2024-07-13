@@ -1,0 +1,35 @@
+.bookdemo {
+    background: rgb(32, 15, 70);
+    background: linear-gradient(90deg, rgba(32, 15, 70, 1) 0%, rgba(113, 27, 249, 1) 40%, rgba(18, 242, 132, 1) 91%);
+    height: 270px;
+    color: #e4e3e7;
+    font-family: "Chivo", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    text-align: center;
+    font-size: 1.1rem;
+    padding-top: 10px;
+}
+
+.bookdemo>div {
+    margin-bottom: 20px;
+}
+
+/* .bookdemo_text {
+    margin-top: 10px;
+} */
+
+.bookdemo_bigtext {
+    color: #FFFFFF;
+    font-size: 1.4rem;
+}
+
+.bookdemo_text_btn {
+    background-color: #3EDE96 !important;
+    color: #0D062B !important;
+    font-size: 14px !important;
+    text-transform: none !important;
+    padding: 10px !important;
+    min-width: fit-content;
+    width: 170px;
+}
