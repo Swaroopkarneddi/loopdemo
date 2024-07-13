@@ -68,8 +68,42 @@ function Footer() {
         </div>
         <div className="footer_bottom">
           <div className="footer_bottom_top">
-            <div>1</div>
-            <div>2</div>
+            <div className="footer_bottom_top1">
+              <div className="footer_bottom_top11">
+                <div className="footer_bottom_top1s">Country/Region</div>
+                {/* <div className="footer_bottom_top1s"> */}
+                <form action="" className="footer_bottom_top1s">
+                  <select name="currency" id="currency">
+                    <option value="INR-India">INR| INDIA</option>
+                    <option value="USD-United_states">
+                      USD| UNITED STATES
+                    </option>
+                  </select>
+                </form>
+                {/* </div> */}
+              </div>
+              <div className="footer_bottom_top12">
+                <div className="footer_bottom_top1s">Language</div>
+                <form action="" className="footer_bottom_top1s">
+                  <select name="Language" id="Language">
+                    <option value="ENGLISH">ENGLISH</option>
+                    <option value="SPANISH">SPANISH</option>
+                  </select>
+                </form>
+              </div>
+            </div>
+            <div className="footer_bottom_top2">
+              <div className="">1</div>
+              <div>1</div>
+              <div>1</div>
+              <div>1</div>
+              <div>1</div>
+              <div>1</div>
+              <div>1</div>
+              <div>1</div>
+              <div>1</div>
+              <div>1</div>
+            </div>
           </div>
           <div className="footer_bottom_bottom">
             <div>1</div>
