@@ -2,6 +2,10 @@
     width: fit-content;
     display: flex;
     flex-direction: column;
+    opacity: 1;
+    /* transition-property: opacity !important;
+    transition-duration: 2s !important;
+    transition-timing-function: ease-in !important; */
     margin-right: 10px;
 }
 
@@ -21,7 +25,15 @@
     margin-right: auto;
     width: 90%;
     height: 100%;
+
 }
+
+/* .otbundlebox_img>img:hover {
+    display: block;
+    transition-property: display !important;
+    transition-duration: 2s !important;
+    transition-timing-function: linear !important;
+} */
 
 .otbundlebox_txt_btn {
     font-size: 0.81rem !important;
