@@ -1,7 +1,12 @@
 .headder {
+    width: 100%;
+    background-color: white;
+}
+
+.headder1 {
+    width: 80%;
     margin-left: auto;
     margin-right: auto;
-    width: 80%;
     height: fit-content;
 }
 
